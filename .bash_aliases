@@ -1,5 +1,5 @@
-#
 # ~/.bash_aliases
+# author: arxaqapi
 # https://github.com/arxaqapi/Dotfiles
 
 
